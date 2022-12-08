@@ -1,4 +1,4 @@
-# emailsenders
+# Emailsenders
 ## This repo contains boiler plate for email sending service
 1. SendGrid
 2. NodeMailer
@@ -10,4 +10,4 @@
 
 >sendmailthroughnodemailer('smtp.gmail.com', 'wdnarendrakumar@gmail.com', process.env.NODEMAILERPASS)
 
-##replace above credentials with own
+## replace above credentials with own
